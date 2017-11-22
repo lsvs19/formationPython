@@ -1,0 +1,6 @@
+build
+_build
+.cache
+dist
+.ipynb_chekpoints
+__pycache__
